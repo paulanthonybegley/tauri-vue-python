@@ -49,3 +49,4 @@ demo/src-tauri/binaries/
 *.swo
 *~
 .DS_Store
+demo/src-tauri/binaries/
