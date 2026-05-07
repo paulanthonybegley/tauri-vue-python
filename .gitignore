@@ -41,6 +41,7 @@ dmypy.json.v
 target/
 Cargo.lock
 .vscode/
+demo/src-tauri/binaries/
 
 # IDE
 .idea/
