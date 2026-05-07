@@ -1,0 +1,13 @@
+[project]
+name = "tauri-todo-backend"
+version = "0.1.0"
+description = "Python backend for Tauri Vue app"
+requires-python = ">=3.8"
+dependencies = [
+    "bottle",
+    "sqlalchemy",
+    "platformdirs",
+]
+
+[project.optional-dependencies]
+dev = ["pyinstaller"]
